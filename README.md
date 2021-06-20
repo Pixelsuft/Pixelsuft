@@ -3,7 +3,7 @@
 [![Stats1](https://github-readme-stats.vercel.app/api?username=pixelsuft&show_icons=true)](https://github.com/Pixelsuft/) <br />
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsuft&hide=pascal)](https://github.com/Pixelsuft/) <br />
 **Links:** <br /><br />
-[PixelsuftBox](https://pixelsuftbox.herokuapp.com/) <br />
-[PlayDOS](https://pixelsuft.github.io/playdos/) <br />
-[OnWin](https://pixelsuft.github.io/onwin/) <br />
-[Half Life in Browser](https://pixelsuft.github.io/hl/)
+[**PixelsuftBox**](https://pixelsuftbox.herokuapp.com/) <br />
+[**PlayDOS**](https://pixelsuft.github.io/playdos/) <br />
+[**OnWin**](https://pixelsuft.github.io/onwin/) <br />
+[**Half Life in Browser**](https://pixelsuft.github.io/hl/)
