@@ -1,4 +1,3 @@
-[![p_symb](https://pixelsuft.github.io/pixelsuft_github_profile_img/p3.html)](https://github.com/Pixelsuft/)[![i_symb](https://pixelsuft.github.io/pixelsuft_github_profile_img/i.html)](https://github.com/Pixelsuft/)[![x_symb](https://pixelsuft.github.io/pixelsuft_github_profile_img/x.html)](https://github.com/Pixelsuft/)[![e_symb](https://pixelsuft.github.io/pixelsuft_github_profile_img/e.html)](https://github.com/Pixelsuft/)[![l_symb](https://pixelsuft.github.io/pixelsuft_github_profile_img/l.html)](https://github.com/Pixelsuft/)<br /><br /><br />
 [![Stats1](https://github-readme-stats.vercel.app/api?username=pixelsuft&show_icons=true)](https://github.com/Pixelsuft/) <br />
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsuft&hide=pascal)](https://github.com/Pixelsuft/) <br /> <br />
 **Links:** <br />
