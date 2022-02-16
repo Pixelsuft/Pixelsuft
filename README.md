@@ -6,4 +6,7 @@
 [**windows95 Browser Port**](https://pixelsuft.github.io/windows95/) <br />
 [**PlayDOS**](https://pixelsuft.github.io/playdos/) <br />
 [**OnWin**](https://pixelsuft.github.io/onwin/) <br />
-[**Half Life in Browser**](https://pixelsuft.github.io/hl/)
+[**Half Life in Browser**](https://pixelsuft.github.io/hl/) <br /> <br />
+## Contact Me
+**Discord** - `no name#9890` <br />
+**Geometry Dash Nickname** - `Pixelsufted`
