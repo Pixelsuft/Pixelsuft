@@ -3,5 +3,4 @@
 **Links:** <br />
 [**Pixelsuft Site**](https://pixelsuft.github.io/) <br />
 ## Contact Me
-**Discord** - `no name#9890` (just to know) <br />
-**Geometry Dash Nickname** - `Pixelsufted`
+**Discord** - `pixelsuft` (just to know)
